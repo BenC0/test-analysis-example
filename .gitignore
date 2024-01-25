@@ -1,0 +1,4 @@
+*.csv
+/results/**/*.pptx
+/results/**/*.png
+/results/**/*.json
